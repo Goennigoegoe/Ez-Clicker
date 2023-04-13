@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\vs2022projects\EzClickerV1\EzClickerV1\AutoClicker.h(43,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\vs2022projects\EzClickerV1\EzClickerV1\AutoClicker.h(54,19): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
-  EzClickerV1.vcxproj -> D:\vs2022projects\EzClickerV1\x64\Debug\EzClickerV1.exe
